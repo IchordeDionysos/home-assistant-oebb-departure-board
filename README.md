@@ -3,6 +3,10 @@
 A custom card for Home Assistant to display ÖBB Scotty widget to show departures for a specific station or a trip planner.  
 The card allows you to configure the widget flexibly to your needs via the official ÖBB widget generator (see installation intrstructions below).
 
+<kbd>
+  <img src="assets/o%CC%88bb_widget.png" width="500px" border-radius="12px" />
+</kbd>
+  
 ## Installation via HACS
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=IchordeDionysos&repository=home-assistant-oebb-widget&category=plugin)
