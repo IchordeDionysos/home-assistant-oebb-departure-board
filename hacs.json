@@ -1,5 +1,6 @@
 {
   "name": "ÖBB Widget",
   "render_readme": true,
-  "filename": "oebb-widget.js"
+  "filename": "oebb-widget.js",
+  "country": ["AT"]
 }
